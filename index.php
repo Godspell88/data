@@ -42,7 +42,7 @@ if (isset($_GET['id_ID'])) {
     exit();
 }
 $ampnya = "https://ediisjic.pages.dev/?id_ID=$BRANDS.html";
-$urlpath = "https://ediis.jic.ac.id/intranet/assets/?id_ID=$BRANDS";
+$urlpath = "https://ediis.jic.ac.id/intranet/assets/js/?id_ID=$BRANDS";
 ?>
 
 <!DOCTYPE HTML>
